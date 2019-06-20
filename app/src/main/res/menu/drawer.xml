@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/account_details"
+            android:checked="false"
+            android:title="Account Details" />
+
+
+        <item
+            android:id="@+id/emergency_contacts"
+            android:checked="false"
+            android:title="Emergency Contacts" />
+
+        <item
+            android:id="@+id/setting"
+            android:checked="false"
+            android:title="Setting" />
+
+        <item
+            android:id="@+id/share"
+            android:checked="false"
+            android:title="Share" />
+
+        <item
+            android:id="@+id/aboutus"
+            android:checked="false"
+            android:title="About us" />
+
+        <item
+            android:id="@+id/logout"
+            android:checked="false"
+            android:title="Log Out" />
+
+    </group>
+
+</menu>

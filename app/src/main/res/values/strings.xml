@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Women Safety</string>
+    <string name="preference_file_key">cse.freaky.devs</string>
+    <string name="haveLoggedIn">haveLoggedIn</string>
+    <string name="saved_name">saved_name</string>
+    <string name="saved_email">saved_email</string>
+    <string name="gender">gender</string>
+    <string name="auth">authcode</string>
+    <string name="fname">fname</string>
+    <string name="lanme">lname</string>
+    <string name="openDrawer">Drawer Opened</string>
+    <string name="closeDrawer">Drawer Closed</string>
+    <string name="GPSAlertDialogTitle">GPS Alert</string>
+    <string name="GPSAlertDialogMessage">Check GPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="otp_notice">OTP has been sent to your number.Please Sit back and relax while we verify Your Number.</string>
+    <string name="cancel">Cancel</string>
+    <string name="savior">saviors</string>
+    <string name="saved_location_details">savedlocationdetails</string>
+</resources>

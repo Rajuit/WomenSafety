@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="28da618c99690fd1d30580775787012b9c719e45">
+        <dex dex="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7fe4c52c3bd0dd1290ee58265d6e1d0fae0e29e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bc53a2cf780032bf64b63c3473931fecc75336b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_Dhobicart\WomenSafety\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_6f15e3d0c1d2faf8aaca32fd44539ab49f00c400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_Dhobicart\WomenSafety\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_f0d86ee1c09d0206a3b04899407b8b1e134eee7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_Dhobicart\WomenSafety\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_5570e68c7db1c0980729d7a7d81ffb05026d89f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PURUSHOTAM\.gradle\caches\modules-2\files-2.1\com.squareup\seismic\1.0.2\41252e3eff887b3ab9a2ef9e4e9218f999d85b68\seismic-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="41252e3eff887b3ab9a2ef9e4e9218f999d85b68">
+        <dex dex="F:\Project_Dhobicart\WomenSafety\app\build\intermediates\transforms\dex\debug\folders\1000\10\seismic-1.0.2_a6929944d8b95544707baf9c621640e8108750de\classes.dex" />
+    </item>
+
+</items>
